@@ -6,6 +6,7 @@ iForum is a question-and-answer website for programmers. In this website you can
 
 https://github.com/SmitBorsadiya/iForum/assets/115487410/51843ccd-1e17-4bd1-9781-0d73a2eb1131
 
+---
 ## Requirements
 
 You need install xampp and MySQL(database) to store data.
